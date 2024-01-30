@@ -1,6 +1,6 @@
 # Mi nombre es Laura Valentina Rodríguez Ortegón
 ## _Soy del programa de Ingeniería de Sistemas_
-### __*Voy en 7mo semestre.*__
+### __*Voy en 7_mo semestre.*__
 
 Algunos de los lenguajes de programación que sé son:
 ```
@@ -41,6 +41,4 @@ El primero es el mio (Astro), una foto suya:
 > de sistemas y, con ello, ir a vivir a otro lugar del mundo para conocer más de la cultura 
 > de otros países.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://co.pinterest.com/pin/498914464943811650/)
