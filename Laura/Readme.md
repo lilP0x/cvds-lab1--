@@ -37,5 +37,10 @@ El primero es el mio (Astro), una foto suya:
 11. Comer
 12. El dulce
 
+Mi aspiración para crecer como persona y profesional es terminar la carrera de ingeniería 
+de sistemas y, con ello, ir a vivir a otro lugar del mundo para conocer más de la cultura 
+de otros países.
+
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 
