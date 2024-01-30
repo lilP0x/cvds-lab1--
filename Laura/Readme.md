@@ -23,6 +23,10 @@ El primero es el mio (Astro), una foto suya:
 
 <img src="astro.jpeg" alt="astro" width="500"/>
 
+> Mi aspiración para crecer como persona y profesional es terminar la carrera de ingeniería 
+> de sistemas y, con ello, ir a vivir a otro lugar del mundo para conocer más de la cultura 
+> de otros países.
+
 ## Cosas que me gustan 
 1. Dormir
 2. El color azul 
@@ -37,8 +41,5 @@ El primero es el mio (Astro), una foto suya:
 11. Comer
 12. El dulce
 
-> Mi aspiración para crecer como persona y profesional es terminar la carrera de ingeniería 
-> de sistemas y, con ello, ir a vivir a otro lugar del mundo para conocer más de la cultura 
-> de otros países.
-
 [![N|Solid](https://imagenesparapeques.com/wp-content/uploads/2019/12/Logo-Stitch.png)](https://co.pinterest.com/pin/498914464943811650/)
+
