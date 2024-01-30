@@ -41,4 +41,4 @@ El primero es el mio (Astro), una foto suya:
 > de sistemas y, con ello, ir a vivir a otro lugar del mundo para conocer más de la cultura 
 > de otros países.
 
-[![N|Solid]([https://cldup.com/dTxpPi9lDf.thumb.png](https://es.wikipedia.org/wiki/Lilo_%26_Stitch_%28franquicia%29#/media/Archivo:Disney_Stitch_logo.svg)https://es.wikipedia.org/wiki/Lilo_%26_Stitch_%28franquicia%29#/media/Archivo:Disney_Stitch_logo.svg)](https://co.pinterest.com/pin/498914464943811650/)
+[![N|Solid]([[https://cldup.com/dTxpPi9lDf.thumb.png](https://imagenesparapeques.com/wp-content/uploads/2019/12/Logo-Stitch.png)https://imagenesparapeques.com/wp-content/uploads/2019/12/Logo-Stitch.png])(https://co.pinterest.com/pin/498914464943811650/)
