@@ -20,6 +20,7 @@ Me gustan las mascotas bastante; tenemos dos gatos y un perro en casa, sus nombr
 - Turpial
 
 El primero es el mio (Astro), una foto suya:
+
 <img src="astro.jpeg" alt="astro" width="500"/>
 
 ## Cosas que me gustan 
