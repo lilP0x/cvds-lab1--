@@ -1,5 +1,5 @@
 # Mi nombre es Laura Valentina Rodríguez Ortegón
-## _Soy del programa de Ingeniería de Sistemas_
+## _Soy estudiante del programa de Ingeniería de Sistemas_
 ### __*Voy en 7_mo semestre.*__
 
 Algunos de los lenguajes de programación que sé son:
